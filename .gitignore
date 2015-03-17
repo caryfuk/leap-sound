@@ -1,0 +1,9 @@
+.salsaflow/
+npm-debug.log
+node_modules
+dist/public/*.css
+dist/public/*.js
+dist/public/lib/
+test-results.xml
+*.sublime-project
+*.sublime-workspace

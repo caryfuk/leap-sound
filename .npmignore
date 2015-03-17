@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+node_modules
+npm-debug.log
+public/dist
+public/lib
+.c9
+*.sublime-project
+*.sublime-workspace
